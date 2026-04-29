@@ -1,4 +1,6 @@
-## Hi there 👋
+## What is FlyLuaIo
+
+Lua‑based framework for controlling USB HID hardware devices and bridging them with flight simulators (X-Plane 11/12 and Microsoft Flight Simulator 2020/2024).
 
 <!--
 
